@@ -91,6 +91,7 @@ p {
  background-color: hsl(0, 0%, 95%);
  border-radius: 50px;
  font-size: 15px;
+ border: 2px solid transparent;
 }
 
 .my-btn:hover {
